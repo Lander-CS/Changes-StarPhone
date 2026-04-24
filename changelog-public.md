@@ -1,4 +1,34 @@
-# 📱 FarmPhone | Development Update v0.2.0
+# 📱 Digital Era | Development Update v0.3.0
+
+> **Enhanced Immersion & Classic Aesthetics.**
+> This update brings the phone closer to the Stardew Valley spirit with a vanilla-inspired redesign and several quality-of-life improvements.
+
+---
+
+## ✨ What’s New
+
+### 🎨 "Vanilla" Redesign
+Goodbye dark, modern colors! The phone now uses the game's classic color palette (**beige and brown**), with message bubbles that look like little pieces of parchment. It finally feels like an item your farmer would actually carry!
+
+### 🖱️ Scrolling System
+Contact list getting too long? No problem. The menu now has full **mouse wheel support** and visual clipping to keep everything neat and tidy.
+
+### 🔓 Auto-Unlock Contacts
+Some NPCs can now come pre-installed on your phone! I’ve set it up so key characters (like **Mayor Lewis** or **Robin**) can text you a "Welcome" message and unlock their contact as soon as you start your journey.
+
+### 🔔 Discreet Notifications
+We’ve replaced the giant mid-screen alerts with subtle **HUD notifications** in the corner (quest-style). Less interruption, more immersion!
+
+---
+
+## 🛠️ Stability Fixes
+
+- **Fully 1.6 Compatible:** Fixed the data loading error that caused crashes on new saves.
+- **No More Ghost Messages:** Fixed a bug where notifications appeared twice or chats remained empty. Every message is now unique and correctly saved to your progress.
+
+---
+
+# 📱 Digital Era | Development Update v0.2.0
 
 > **A bridge between farming and the digital age.** > This update transforms the basic interface into a modular smartphone ecosystem, deeply integrated with Stardew Valley's classic aesthetic.
 
